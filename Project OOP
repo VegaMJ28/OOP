@@ -81,7 +81,7 @@ class Course:
         print("credits:", self.credits)
         if self.faculty:
             print("faculty:", self.faculty)
-        else :
+        else :b hjaajajaj
             print("Faculty: None")
         for f in self.students:
             print ("Students in course"+str(f), f.name )
